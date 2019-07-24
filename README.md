@@ -74,3 +74,20 @@ Source --> ChannelPicker --> KWS          Source --> ChannelPicker --> KWS --> A
  DOA                   Alexa   Google Asissitant 
   
 ```
+安装
+$sudo apt-get install ffmpeg git python3-picamera python3-ws4py
+克隆此存储库
+$git clone https://？
+用法
+打开
+cd 目录？
+运行脚本
+$python3 server.py
+$Initializing websockets server on port 8084
+$Initializing HTTP server on port 8888
+$Initializing camera
+$Initializing broadcast thread
+$Spawning background conversion process
+$Starting websockets thread
+$Starting HTTP server thread
+$Starting broadcast thread
