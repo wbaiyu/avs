@@ -25,7 +25,7 @@ setup(
     long_description_content_type='text/markdown',
     author="wbaiyu",
     author_email='wbaiyu@outlook.com',
-    url='https://github.com/wbaiyu/v',
+    url='https://github.com/wbaiyu/avs',
     packages=find_packages(include=['voice_engine']),
     include_package_data=True,
     install_requires=requirements,
